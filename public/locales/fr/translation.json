@@ -1,0 +1,15 @@
+{
+  "Welcome": {
+     "text": "Bienvenue sur cette application d'internationalisation React",
+     "description": "Cette application vise à aider à combler le fossé et à vous aider à internationaliser facilement votre page Web"
+  },
+  "paragraphs": {
+     "paragraph_1": "Cette application met en évidence différentes langues et comment nous pourrions passer d'une langue à l'autre en temps réel. C'est une fonctionnalité très impressionnante qui est disponible depuis des années.",
+     "paragraph_2": "Nous verrions également comment cela pourrait être réalisé avec GraphCMS, un CMS sans tête qui nous aide à organiser nos données et à récupérer nos données avec GraphQL. GraphQL a récemment introduit l'internationalisation, ce qui est génial.",
+     "date": "Aujourd'hui, nous sommes le {{date, DATE_HUGE}}"
+  },
+  "interpolation_pluralization": {
+     "text_one": "Il n'y a qu'un seul article à ce sujet",
+     "text_other": "Il y a {{count}} articles sur ce sujet"
+  }
+}

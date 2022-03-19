@@ -1,0 +1,15 @@
+{
+  "Welcome": {
+     "text": "Bienvenido a esta aplicación de internacionalización de Reactp",
+     "description": "Esta aplicación tiene como objetivo ayudar a cerrar la brecha y ayudarlo a internacionalizar fácilmente su página web fácilmente."
+  },
+  "paragraphs": {
+     "paragraph_1": "Esta aplicación destaca varios idiomas y cómo podemos cambiar de un idioma a otro en tiempo real. Esta es una característica muy impresionante que ha estado disponible durante años.",
+     "paragraph_2": "También veríamos cómo se podría lograr esto con GraphCMS, un CMS sin encabezado que nos ayuda a organizar nuestros datos y recuperarlos con GraphQL. GraphQL introdujo recientemente la internacionalización, que es increíble.",
+     "date": "Hoy es {{date, DATE_HUGE}}"
+  },
+  "interpolation_pluralization": {
+     "text_one": "Solo hay un artículo sobre esto.",
+     "text_other": "Hay {{count}} artículos sobre este"
+  }
+}
